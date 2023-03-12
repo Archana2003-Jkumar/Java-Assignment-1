@@ -78,6 +78,9 @@ public class Main{
        
     }}
  ```
+ ### O/p:
+ ![area](https://user-images.githubusercontent.com/93427594/224527955-3e361183-d4a0-4b44-afdc-7f7ff15df98b.png)
+
  ### 5. Write a Java program to find the number of days in a month.
  ```
   Scanner sc= new Scanner(System.in);
@@ -91,6 +94,9 @@ public class Main{
      else
       System.out.println("Number of days is 30");
  ```
+ ### O/p:
+ ![month](https://user-images.githubusercontent.com/93427594/224527975-40d8674d-bff8-4710-93f3-be018df39785.png)
+
  ### 6. Write a Java program to print the even numbers from 1 to 20.
  ```
  import java.util.Scanner;
@@ -109,6 +115,8 @@ public class Main{
         }
     }
  ```
+ ### O/p:
+ ![even](https://user-images.githubusercontent.com/93427594/224527992-d1601b38-2aae-47f7-9215-2d72ead36c08.png)
 ### 7. Write a Java program to create a simple calculator.
 ```
 import java.util.Scanner;
@@ -143,6 +151,9 @@ public class Main{
   }
   }
 ```
+### O/p:
+![cal](https://user-images.githubusercontent.com/93427594/224528003-0f9a1303-1251-4887-8e6a-cf7bdae1b873.png)
+
 ### 8. Write a Java program to print multiplication table of given number.
 ```
 import java.util.Scanner;
@@ -160,6 +171,9 @@ public class Main {
     }
 }
 ```
+### O/p:
+![tab](https://user-images.githubusercontent.com/93427594/224528012-39aadd57-40d1-4182-a010-6864054dcc22.png)
+
 
 
 
