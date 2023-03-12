@@ -24,6 +24,8 @@ public class Main {
     }
 }
 ```
+### Output:
+![op1](./op1)
 ### 2.Write a Java program to compare two numbers.
 ```
 import java.util.Scanner;
