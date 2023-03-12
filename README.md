@@ -25,8 +25,7 @@ public class Main {
 }
 ```
 ### Output:
-![op1](https://user-images.githubusercontent.com/93427594/224527433-345fa570-5330-45cb-a166-a055249f29e4.png)
-### 2.Write a Java program to compare two numbers.
+![op1](https://user-images.githubusercontent.com/93427594/224527489-d5af3d53-e78f-451f-b6e6-8cbfd101ad67.png)### 2.Write a Java program to compare two numbers.
 ```
 import java.util.Scanner;
 public class Main {
