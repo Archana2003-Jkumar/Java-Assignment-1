@@ -25,7 +25,7 @@ public class Main {
 }
 ```
 ### Output:
-![opstring](https://user-images.githubusercontent.com/93427594/224527433-345fa570-5330-45cb-a166-a055249f29e4.png)
+![op1](https://user-images.githubusercontent.com/93427594/224527433-345fa570-5330-45cb-a166-a055249f29e4.png)
 ### 2.Write a Java program to compare two numbers.
 ```
 import java.util.Scanner;
