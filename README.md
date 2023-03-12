@@ -46,6 +46,9 @@ public class Main {
     
 }
 ```
+### Output:
+![op2](https://user-images.githubusercontent.com/93427594/224527526-010e6fb8-795f-4610-95ba-83f3905af565.png)
+
 ### 3. Write a Java program to convert a string to an integer.
 ```
 import java.util.Scanner;
@@ -59,6 +62,9 @@ public class Main {
     }
 }
 ```
+### Output:
+![opstring](https://user-images.githubusercontent.com/93427594/224527542-da86b56b-c638-4c0d-95cb-1c4c54bfd1aa.png)
+
 ### 4..Java Program to find area of rhombus.
 ```
 import java.util.Scanner;
